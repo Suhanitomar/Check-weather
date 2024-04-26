@@ -1,0 +1,21 @@
+form{
+    border-radius: 20px;
+    margin-left: 700px;
+    margin-top: 500px;
+}
+#search{
+    background-color: lightblue;
+    color: white;
+    font-style: italic;
+    border: 2px white solid;
+    border-radius: 10px;
+}
+#input{
+    border: 2px gainsboro solid;
+    border-radius: 10px;
+}
+#cards{
+    margin-left: 700px;
+    margin-top: 300px;
+    display: none;
+}
